@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.test.app",
+      "googleServicesFile": "./google-services.json",
+    },
+    "ios": {
+      "bundleIdentifier": "com.test.app",
+      "runtimeVersion": {
+        "policy": "sdkVersion"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "798b5f22-921e-45b7-ab95-2fcc96d47885"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/798b5f22-921e-45b7-ab95-2fcc96d47885"
+    }
+  }
+}

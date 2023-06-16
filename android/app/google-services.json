@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609160615371",
+    "project_id": "fir-noti-c7bd6",
+    "storage_bucket": "fir-noti-c7bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609160615371:android:3d08aa44339a1df9b6d24e",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609160615371-9npt3q6vc150ad372eglp571qoo8gq8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMG6KYLWHgXyu7aFg2dOaJsnQtNdWCCkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609160615371-9npt3q6vc150ad372eglp571qoo8gq8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
